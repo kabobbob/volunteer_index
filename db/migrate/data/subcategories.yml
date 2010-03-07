@@ -1,0 +1,424 @@
+small business:
+  id: 1
+  category_id: 1
+  name: Small Business 
+
+accounting software:
+  id: 2
+  category_id: 1
+  name: Accounting Software
+
+personal finance/investments:
+  id: 3
+  category_id: 1
+  name: Personal Finance/Investments
+
+calligraphy:
+  id: 4
+  category_id: 2
+  name: Calligraphy
+
+illustration, painting:
+  id: 5
+  category_id: 2
+  name: Illustration/Painting
+
+fabric arts, sewing & quilting:
+  id: 6
+  category_id: 2
+  name: Fabric Arts/Sewing/Quilting
+
+handyman:
+  id: 7
+  category_id: 3
+  name: Handyman
+
+carpentry/remodeling:
+  id: 8
+  category_id: 3
+  name: Carpentry/Remodeling
+
+plumbing:
+  id: 9
+  category_id: 3
+  name: Plumbing
+
+electrical:
+  id: 10
+  category_id: 3
+  name: Electrical
+
+roofing:
+  id: 11
+  category_id: 3
+  name: Roofing
+
+cement/asphalt paving:
+  id: 12
+  category_id: 3
+  name: Cement/Asphalt Paving
+
+sports:
+  id: 13
+  category_id: 5
+  name: Sports
+
+skills (fishing, canoeing, etc):
+  id: 14
+  category_id: 5
+  name: Skills (fishing, canoeing, etc)
+
+career/job search:
+  id: 15
+  category_id: 5
+  name: Career/Job search
+
+database applications:
+  id: 16
+  category_id: 6
+  name: Database Applications
+
+data entry:
+  id: 17
+  category_id: 6
+  name: Data Entry
+
+desktop publishing:
+  id: 18
+  category_id: 6
+  name: Desktop Publishing
+
+finance:
+  id: 19
+  category_id: 6
+  name: Finance
+
+networks:
+  id: 20
+  category_id: 6
+  name: Networks
+
+PowerPoint:
+  id: 21
+  category_id: 6
+  name: PowerPoint
+
+spreadsheet:
+  id: 22
+  category_id: 6
+  name: Spreadsheet
+
+graphic design:
+  id: 23
+  category_id: 6
+  name: Graphic Design
+
+training:
+  id: 24
+  category_id: 6
+  name: Training
+
+troubleshooting:
+  id: 25
+  category_id: 6
+  name: Troubleshooting
+
+website development:
+  id: 26
+  category_id: 6
+  name: website development
+
+word processing:
+  id: 27
+  category_id: 6
+  name: Word Processing
+
+hardware – set-up, upgrades, etc:
+  id: 28
+  category_id: 6
+  name: Hardware (set-up, upgrades, etc)
+
+interior design:
+  id: 29
+  category_id: 7
+  name: Interior Design
+
+sanctuary/worship design:
+  id: 30
+  category_id: 7
+  name: Sanctuary/Worship Design
+
+acting:
+  id: 31
+  category_id: 8
+  name: Acting
+
+directing:
+  id: 32
+  category_id: 8
+  name: Directing
+
+techwork (staging, lighting, etc):
+  id: 33
+  category_id: 8
+  name: Techwork (staging, lighting, etc)
+
+conference events:
+  id: 34
+  category_id: 9
+  name: Conference Events
+
+district:
+  id: 35
+  category_id: 9
+  name: District
+
+instruction:
+  id: 36
+  category_id: 9
+  name: Instruction
+
+training:
+  id: 37
+  category_id: 11
+  name: Training
+
+crisis help:
+  id: 38
+  category_id: 11
+  name: Crisis Help
+
+financial help:
+  id: 39
+  category_id: 11
+  name: Financial Help
+
+nursing/physician’s assistant:
+  id: 40
+  category_id: 13
+  name: Nursing/Physician’s Assistant
+
+physical/occupational therapy:
+  id: 41
+  category_id: 13
+  name: Physical/Occupational Therapy
+
+physician:
+  id: 42
+  category_id: 13
+  name: Physician
+
+chiropractic:
+  id: 43
+  category_id: 13
+  name: Chiropractic
+
+training:
+  id: 44
+  category_id: 14
+  name: Training
+
+host/hostess/usher/greeter:
+  id: 45
+  category_id: 14
+  name: Host/Hostess/Usher/Greeter
+
+design:
+  id: 46
+  category_id: 16
+  name: Design
+
+planting & weeding:
+  id: 47
+  category_id: 16
+  name: Planting & Weeding
+
+lawn care: 
+  id: 48
+  category_id: 16
+  name: Lawn Care 
+
+snow removal, raking leaves:
+  id: 49
+  category_id: 16
+  name: Snow Removal, Raking Leaves
+
+advocacy:
+  id: 50
+  category_id: 17
+  name: Advocacy
+
+wills:
+  id: 51
+  category_id: 17
+  name: Wills
+
+real estate:
+  id: 52
+  category_id: 17
+  name: Real Estate
+
+insurance:
+  id: 53
+  category_id: 17
+  name: Insurance
+
+church business:
+  id: 54
+  category_id: 17
+  name: Church Business
+
+safe sanctuaries, child protection:
+  id: 55
+  category_id: 17
+  name: Safe Sanctuaries, Child Protection
+
+help with immigration issues:
+  id: 56
+  category_id: 17
+  name: Help with Immigration Issues
+
+advertising/public relations:
+  id: 57
+  category_id: 18
+  name: Advertising/Public Relations
+
+graphic design:
+  id: 58
+  category_id: 18
+  name: Graphic Design
+
+direct mail/mailing lists:
+  id: 59
+  category_id: 18
+  name: Direct Mail/Mailing Lists
+
+market research:
+  id: 60
+  category_id: 18
+  name: Market Research
+
+broadcast/TV & Radio:
+  id: 61
+  category_id: 18
+  name: Broadcast/TV & Radio
+
+children/spouses of divorce:
+  id: 62
+  category_id: 19
+  name: Children/Spouses of Divorce
+
+youth:
+  id: 63
+  category_id: 19
+  name: Youth
+
+new parents, single parents:
+  id: 64
+  category_id: 19
+  name: New Parents, Single Parents
+
+immigrants:
+  id: 65
+  category_id: 19
+  name: Immigrants
+
+by Grandparents:
+  id: 66
+  category_id: 19
+  name: by Grandparents
+
+technology/hardware selection:
+  id: 67
+  category_id: 20
+  name: Technology/Hardware Selection
+
+video creation or operation:
+  id: 68
+  category_id: 20
+  name: Video Creation or Operation
+
+audio creation or operation:
+  id: 69
+  category_id: 20
+  name: Audio Creation or Operation
+
+instruction:
+  id: 70
+  category_id: 20
+  name: Instruction
+
+worship, vocal or instrumental:
+  id: 71
+  category_id: 21
+  name: Worship, Vocal or Instrumental
+
+weddings:
+  id: 72
+  category_id: 21
+  name: Weddings
+
+instruction:
+  id: 73
+  category_id: 21
+  name: Instruction
+
+set-up:
+  id: 74
+  category_id: 23
+  name: Set-up
+
+short term help:
+  id: 75
+  category_id: 23
+  name: Short Term Help
+
+help with brochures:
+  id: 76
+  category_id: 25
+  name: Help with Brochures
+
+digital photography for websites, PowerPoint presentations, etc:
+  id: 77
+  category_id: 25
+  name: Digital Photography for Websites, PowerPoint Presentations, etc
+
+instruction:
+  id: 78
+  category_id: 25
+  name: Instruction
+
+how to use/instruction:
+  id: 79
+  category_id: 27
+  name: How to Use/Instruction
+
+equipment operation:
+  id: 80
+  category_id: 27
+  name: Equipment Operation
+
+special events:
+  id: 81
+  category_id: 28
+  name: Special Events
+
+instruction:
+  id: 82
+  category_id: 28
+  name: Instruction
+
+newsletters:
+  id: 83
+  category_id: 29
+  name: Newsletters
+
+resumes:
+  id: 84
+  category_id: 29
+  name: Resumes
+  
+scripts for church:
+  id: 85
+  category_id: 29
+  name: Scripts for Church

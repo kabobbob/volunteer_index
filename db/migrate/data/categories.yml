@@ -1,0 +1,115 @@
+Accounting:
+  id: 1
+  name: Accounting
+
+Art:
+  id: 2
+  name: Art
+
+Building & Construction:
+  id: 3
+  name: Building & Construction
+
+Catering:
+  id: 4
+  name: Catering
+  
+Coaching:
+  id: 5
+  name: Coaching
+
+Computer:
+  id: 6
+  name: Computer
+
+Decorating & Design:
+  id: 7
+  name: Decorating & Design
+
+Drama:
+  id: 8
+  name: Drama
+
+Driving:
+  id: 9
+  name: Driving
+
+Event Planning:
+  id: 10
+  name: Event Planning
+
+Farming:
+  id: 11
+  name: Farming
+
+Food Service:
+  id: 12
+  name: Food Service
+  
+Healthcare:
+  id: 13
+  name: Healthcare
+
+Hospitality:
+  id: 14
+  name: Hospitality
+
+Jail Visitation:
+  id: 15
+  name: Jail Visitation
+
+Landscaping & Gardening:
+  id: 16
+  name: Landscaping & Gardening
+
+Legal Services:
+  id: 17
+  name: Legal Services
+
+Marketing:
+  id: 18
+  name: Marketing
+
+Mentoring:
+  id: 19
+  name: Mentoring
+
+Multi-media:
+  id: 20
+  name: Multi-media
+
+Musical Performance:
+  id: 21
+  name: Musical Performance
+
+Nutrition:
+  id: 22
+  name: Nutrition
+
+Office:
+  id: 23
+  name: Office
+
+Organizing:
+  id: 24
+  name: Organizing
+
+Photography:
+  id: 25
+  name: Photography
+
+Researching:
+  id: 26
+  name: Researching
+
+Sound Systems:
+  id: 27
+  name: Sound Systems
+
+Videotaping:
+  id: 28
+  name: Videotaping
+
+Writing:
+  id: 29
+  name: Writing
