@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  font-size: 14px;
+}
+
+.content {
+  margin: auto;
+  width: 60%;
+}
+
+.category_div {
+  width: 500px;
+  float: left;
+}
+
+.category_table {
+  border-collapse: collapse;
+}
+
+.category_table th {
+	text-align: left;
+}
+	
+.category_table td {
+  padding-top: 5px;
+}

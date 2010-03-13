@@ -126,7 +126,7 @@ troubleshooting:
 website development:
   id: 26
   category_id: 6
-  name: website development
+  name: Website Development
 
 word processing:
   id: 27
@@ -422,3 +422,23 @@ scripts for church:
   id: 85
   category_id: 29
   name: Scripts for Church
+  
+yarn:
+  id: 86
+  category_id: 30
+  name: Yarncraft
+
+needle:
+  id: 87
+  category_id: 30
+  name: Needlecraft
+
+scrapbooking/paper:
+  id: 88
+  category_id: 30
+  name: Scrapbooking/Papercraft
+
+metalworking:
+  id: 89
+  category_id: 30
+  name: Metalworking

@@ -1,0 +1,11 @@
+<% form_tag surveys_path() do -%>
+  <div class='category_div'>
+    <%= render :partial => 'category_table', :locals => {:categories => @categories_1} %>
+  </div>
+  <div class='category_div'>
+    <%= render :partial => 'category_table', :locals => {:categories => @categories_2} %>
+  </div>
+  <div style='clear:both;'>
+    <%= submit_tag 'Submit' %>
+  </div>
+<% end -%>

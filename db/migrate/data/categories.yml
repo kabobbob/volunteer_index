@@ -113,3 +113,7 @@ Videotaping:
 Writing:
   id: 29
   name: Writing
+  
+Crafting:
+  id: 30
+  name: Crafting
