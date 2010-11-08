@@ -7,6 +7,13 @@ class SurveysController < ApplicationController
     split = 14
     @categories_1 = categories.slice(0, split)
     @categories_2 = categories.slice(split, categories.length - 1)
+    
+    respond_to do |format|
+      format.html
+      format.pdf do
+        render :pdf => "survey", :stylesheets => ['prince']
+      end
+    end
   end
   
   def create
