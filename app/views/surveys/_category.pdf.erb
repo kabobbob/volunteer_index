@@ -1,0 +1,11 @@
+<tr style='background-color:#efefef;'>
+  <td colspan='2'>
+    <b><%= category.name %></b>
+  </td>
+  <td valign='top'>
+    <%= check_box_tag "selections[#{category.id}]" %>
+  </td>
+</tr>
+<% if category.subcategories.length %>
+  <%= render :partial => 'subcategory', :collection => category.ordered_subcategories, :locals => {:category => category} %>
+<% end %>

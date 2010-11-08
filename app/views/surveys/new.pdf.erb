@@ -1,0 +1,33 @@
+<table>
+  <tr>
+    <td valign='top' style='padding-right: 20px;'>
+      <p style='font-size:11px;'>
+        15th Avenue Baptist Church Member Survey
+      </p>
+      <p>Name: ____________________________________</p>
+      <p>Address: _________________________________</p>
+      <p>City/State/Zip: ________________/____/________</p>
+      <p>Phone: ___________________________________</p>
+      <p>Email: ___________________________________</p>
+      <p style='width:200px; padding-top:20px'>
+        In order to get a better idea of the skill sets, talents, and hobbies of our memebers,
+        we are conducting this survey.<br/><br/>
+        Please complete this survey by checking off any items to the right that you like and/or know how to do.
+        <br/><br/>
+        The results of this survey will be held in confidence and only be used for the future needs of our growing church.<br/><br/>
+        Please help us out by completing this survey and returning it to either Robert or Michele McClellan.
+        If you have any questions, please contact either Robert or Michele McClellan (themcclellans08@gmail.com).
+      </p>
+    </td>
+    <td>
+      <div class='category_div'>
+        <%= render :partial => 'category_table', :locals => {:categories => @categories_1} %>
+      </div>      
+    </td>
+    <td>
+      <div class='category_div'>
+        <%= render :partial => 'category_table', :locals => {:categories => @categories_2} %>
+      </div>
+    </td>
+  </tr>
+</table>

@@ -1,0 +1,29 @@
+@page { 
+	margin: 0px 20px 0px 20px; 
+}
+
+body {
+  font-family: Arial;
+  font-size: 9px;
+}
+
+.content {
+  margin: auto;
+  width: 60%;
+}
+
+.category_div {
+  width: 200px;
+}
+
+.category_table {
+  border-collapse: collapse;
+}
+
+.category_table th {
+	text-align: left;
+}
+	
+.category_table td {
+  padding-top: 5px;
+}
